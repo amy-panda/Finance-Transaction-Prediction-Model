@@ -1,1 +1,1 @@
-# Regression Model - Transactions Prediction
+# Regression Model - Predicting Financial Transactions
